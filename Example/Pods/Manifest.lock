@@ -1,0 +1,16 @@
+PODS:
+  - CTDial (0.1.0)
+
+DEPENDENCIES:
+  - CTDial (from `../`)
+
+EXTERNAL SOURCES:
+  CTDial:
+    :path: ../
+
+SPEC CHECKSUMS:
+  CTDial: ed5ffbeadb5b69cbf319d2572ad72462ee049afd
+
+PODFILE CHECKSUM: 1ac803dde72e9a45672a553ec80bc457b44bbc05
+
+COCOAPODS: 1.2.0

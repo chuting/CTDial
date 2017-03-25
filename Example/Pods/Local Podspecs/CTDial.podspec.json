@@ -1,0 +1,25 @@
+{
+  "name": "CTDial",
+  "version": "0.1.0",
+  "summary": "A short description of CTDial.",
+  "description": "这是一个刻度盘，类似于汽车上面带刻度指示的、这是一个刻度盘，类似于汽车上面带刻度指示的、这是一个刻度盘，类似于汽车上面带刻度指示的、这是一个刻度盘，类似于汽车上面带刻度指示的、这是一个刻度盘，类似于汽车上面带刻度指示的、",
+  "homepage": "https://github.com/502353919@qq.com/CTDial",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "502353919@qq.com": "502353919@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/502353919@qq.com/CTDial.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "CTDial/Classes/**/*",
+  "resources": [
+    "CTDial/Assets/*.xcassets"
+  ]
+}
