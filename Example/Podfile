@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'CTDial_Example' do
+  pod 'CTDial', :path => '../'
+
+  target 'CTDial_Tests' do
+    inherit! :search_paths
+
+    pod 'FBSnapshotTestCase'
+  end
+end
