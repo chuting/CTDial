@@ -5,9 +5,12 @@
 [![License](https://img.shields.io/cocoapods/l/CTDial.svg?style=flat)](http://cocoapods.org/pods/CTDial)
 [![Platform](https://img.shields.io/cocoapods/p/CTDial.svg?style=flat)](http://cocoapods.org/pods/CTDial)
 
+
 ## Example
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
+
+![image](https://github.com/chuting/CTDial/blob/master/IMG_3993.PNG)
 
 ## Requirements
 
