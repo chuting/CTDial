@@ -10,7 +10,7 @@
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
-![image](https://github.com/chuting/CTDial/blob/master/IMG_3993.PNG)
+![image](https://github.com/chuting/CTDial/blob/master/仪表盘.gif)
 
 ## Requirements
 
