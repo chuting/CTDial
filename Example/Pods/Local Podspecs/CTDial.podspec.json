@@ -1,0 +1,24 @@
+{
+  "name": "CTDial",
+  "version": "0.1.0",
+  "summary": "这是一个刻度盘",
+  "description": "这是一个刻度盘，支持设置当前值，最大最小值，支持响应用户手势滑动指针修改值",
+  "homepage": "https://github.com/chuting/CTDial",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "502353919@qq.com": "502353919@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/chuting/CTDial.git"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "CTDial/Classes/**/*",
+  "resources": [
+    "CTDial/Assets/*.xcassets"
+  ]
+}

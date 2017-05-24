@@ -21,7 +21,7 @@
     
     self.view.backgroundColor =  [UIColor colorWithRed:40/255.0 green:40/255.0 blue:40/255.0 alpha:1];
     
-    CTDialView * dialView = [[CTDialView alloc] initWithFrame:CGRectMake(37, 60, 300, 300)];
+    CTDialView * dialView = [[CTDialView alloc] initWithFrame:CGRectMake(20, 60, 300, 300)];
     [self.view addSubview:dialView];
     
     dialView.value = 20;
